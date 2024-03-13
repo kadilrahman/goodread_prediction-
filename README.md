@@ -7,7 +7,7 @@ I cleaned the review text and removed the noise caused by abundant punctuations,
 
 I split the data into training, testing, and validation according to the best fit and kept it consistent to avoid void/inefficient results and achieve optimum efficiency.
 
-#Model
+# Model
 
 ## Standard ML Baseline: Logistic regression
 
