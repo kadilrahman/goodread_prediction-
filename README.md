@@ -37,7 +37,7 @@ I've been working with Gated Recurrent Units (GRUs), which are essentially a var
 
 I used the Bidirectional Encoder Representations from Transformer (BERT), a pre-trained deep learning model, because I found it incredibly effective for language processing tasks. I chose it as I believe it's a powerful tool for handling large amounts of data. However, I also realized that it has a significant drawback: it requires substantial computational resources to train and enhance the model's performance.
 
-# Result:
+# Result
 
 After performing the given task, I clearly saw that the Bidirectional Encoder Representations from Transformer Model (BERT) outperformed all the other models I used. I would highly recommend using it because of its superior ability to understand the contextual meaning of words in a sentence and its efficiency in handling large datasets.
 
